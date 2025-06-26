@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: checkoutservice
-          image: mart1n-chamoy/checkoutservice:latest
+          image: martin555/checkoutservice:latest
           ports:
             - containerPort: 8080
